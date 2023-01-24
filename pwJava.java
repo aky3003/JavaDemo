@@ -4,4 +4,8 @@ class Java
 {
 		/// code
 }
+	public void mal()
+{
+		/// code
+}
 }
